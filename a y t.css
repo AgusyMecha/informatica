@@ -1,0 +1,9 @@
+img{
+    width: 300px;
+    height: auto;
+    margin: 20px 0;
+    display: block       
+  }
+  th { 
+    background-color: burlywood;
+  }
